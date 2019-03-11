@@ -1,7 +1,7 @@
   {
     "name": "Timer",
     "version": "1.0",
-    "permissions": ["declarativeContent", "storage"],
+    "permissions": ["activeTab", "declarativeContent", "storage"],
     "description": "A simple toast (dialog box) timer that informs user how long they have stayed on a web page or site.",
     "background": {
       "scripts": ["background.js"],
