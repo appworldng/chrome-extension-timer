@@ -1,0 +1,6 @@
+  {
+    "name": "Timer",
+    "version": "1.0",
+    "description": "A simple toast (dialog box) timer that informs user how long they have stayed on a web page or site.",
+    "manifest_version": 2
+  }
