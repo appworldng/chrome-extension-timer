@@ -1,6 +1,11 @@
   {
     "name": "Timer",
     "version": "1.0",
+    "permissions": ["storage"],
     "description": "A simple toast (dialog box) timer that informs user how long they have stayed on a web page or site.",
+    "background": {
+      "scripts": ["background.js"],
+      "persistent": false
+    },
     "manifest_version": 2
   }
